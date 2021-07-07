@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  background-color: aqua;
+}
+
+.new {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  border-collapse:separate;
+}
+
+td {
+    
+    border:1px solid black;
+    padding: 15px;
+}
+
+.lft {
+    text-align: right;
+}
+
+.btn:hover{
+  background-color: brown;
+}
